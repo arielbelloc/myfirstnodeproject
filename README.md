@@ -1,1 +1,1 @@
-# myfirstnodeproject
+# Skeleton project for Swagger
